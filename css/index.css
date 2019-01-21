@@ -12,6 +12,6 @@ body{background-color: #ffe6e6;}
 .trDestaque{width: 80%; float: left; margin-left: 10%;}
 .fotoDestaque{width: 10%; float: left;}
 .imgDestaque{width: 100%; }
-.rodape{width: 100%; float: left; background-color: #000000; color: #ffffff;}
+.rodape{width: 100%; float: left; background-color: #000000; color: #ffffff; margin-top: 23%;}
 .endereco{width: 50%; float: left; text-align: center; padding: 1.5% 0%;}
 .contato{width: 50%; float: left; text-align: center; padding: 1.5% 0%;}
