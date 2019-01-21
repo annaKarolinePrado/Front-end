@@ -1,0 +1,11 @@
+.conteudo{width: 100%; float: left;}
+#botaoPesquisar{width: 7%; float: right; text-align: center; margin-right: 24.3%; margin-top: 2%; margin-bottom: 2%;
+				border-radius: 7px; padding: 0.5%; color: #fff; background-color: #000; cursor: pointer;}
+#botaoPesquisar:hover{border: 2px solid #ffffcc;}
+#buscaProduto{width: 18%; float: right; text-align: center; margin-right: 1%; margin-top: 2.3%; margin-bottom: 2%; padding: 0.3%; border: none;
+			  border-radius: 7px; background-color: #ffffcc;}
+.comboProduto{width: 10%; float: left; text-align: center; margin-left: 24.3%; margin-top: 2.3%; margin-bottom: 2%; padding: 0.3%;
+			   border-radius: 7px; background-color: #ffffcc;  border: none;}
+.tablePesquisa{width: 80%; float: left; margin-left: 10%; margin-bottom: 20%;}
+.colunaPesquisa{width: 20%; float: center; text-align: center;}
+#linhaSim{background-color: #ffffcc;}

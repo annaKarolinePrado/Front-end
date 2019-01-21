@@ -1,0 +1,6 @@
+.formAdmim{width: 100%; float: left; margin-top: 1%; text-decoration: none;}
+.form{text-align: center; margin-bottom: 1%;}
+#nome, #email{width: 20%; padding: 0.5% 0%; border-radius: 7px; margin-top: 4px; background-color: #ffffcc; }
+#btnLogar{width: 5%; float: center; text-align: center; margin-bottom: 2%; border-radius: 7px;
+		   padding: 0.5%; color: #fff; background-color: #000; cursor: pointer;}
+#btnLogar:hover{border: 2px solid #ffffcc;}

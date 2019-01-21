@@ -1,0 +1,53 @@
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="css/index.css">
+		<link rel="stylesheet" type="text/css" href="css/suporte.css">
+	</head>
+	<body>
+		<header clas="cabecalho">
+			<div class="logo">
+				<img src="img/logo.png" alt="logomarca" id="imgLogo"/> 
+			</div>
+			<nav class="menu">
+				<ul class="subMenu">
+					<a href="index.html"><li class="menuLi"> Início</li></a>
+					<a href="produto.html"><li class="menuLi"> Produtos</li></a>
+					<a href="promocao.html"><li class="menuLi">Promoção</li></a>
+					<a href="suporte.html"><li class="menuLi"><b> Suporte </b></li></a>
+					<a href="admim.html"><li class="menuLi">Admim</li></a>
+				</ul>
+			
+			</nav>
+			<div class="find">
+				<img src="img/search.png" alt="icone da pesquisa" id="iconePesquisa"/>
+				<input type="text" id="buscaGenerica"/>
+			</div>
+		</header>
+		<main class="conteudo">
+			<form class="formSuporte">
+				<div class="form">
+					<label for="nome">	Nome: </label>
+					<input type="text" name="nome" id="nome">
+				</div>
+				<div class="form">
+					<label for="email">	E-mail: </label>
+					<input type="email" name="email" id="email">
+				</div>
+				<div class="form">
+					<p id="paragrafoArea">	Descreva seu problema: </p>
+					<textarea rows="4" cols="50" id="areaTexto"></textarea>
+				</div>
+				<div class="form">
+					<input type="button" value="Enviar" id="btnEnviar">
+				</div>  
+			</form> 			
+		</main>
+		<footer>
+			<div class="rodape">
+				<a class="endereco">Cidade do Dragão, Vila Leste</a>
+				
+				<a class="contato">Contato: 999999999</a>
+			</div>
+		</footer>
+	</body>
+</html>
